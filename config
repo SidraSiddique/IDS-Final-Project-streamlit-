@@ -1,6 +1,5 @@
-[theme]
-primaryColor = "#F63366"
-backgroundColor = "#FFC0CB"
-secondaryBackgroundColor = "#262730"
-textColor = "FFFFFF"
-font = "sans serif"
+primaryColor = "#FFC0CB"  // Light pink
+backgroundColor = "#FFF5F7"  // Very light pink background
+secondaryBackgroundColor = "#FFCCE5"  // Soft pink
+textColor = "#000000"  // Black text for better readability
+font = "sans serif"  // Keep the font unchanged
